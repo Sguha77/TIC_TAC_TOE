@@ -47,3 +47,20 @@ Play against a friend and relive the classic logic challenge — now in a sleek 
 </p>
 
 ⭐ If you like this project, consider giving it a star on GitHub!
+
+<p align="center">
+  <a href="https://instagram.com/subho_77_ind/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" 
+         alt="Instagram" 
+         width="70" 
+         height="70" 
+         style="width: 70px; height: 70px; border-radius: 50%;">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/subhankar-07-guha/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" 
+         alt="LinkedIn" 
+         width="70" 
+         height="70" 
+         style="width: 70px; height: 70px; border-radius: 50%;">
+  </a>
