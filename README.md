@@ -13,7 +13,7 @@ Play against a friend and relive the classic logic challenge — now in a sleek 
 
 ## 🖼️ Preview  
 <p align="center">
-  <img src="assets/ss1.png" alt="Tic Tac Toe Preview" width="500">
+  <img src="assets/ss1.jpeg" alt="Tic Tac Toe Preview" width="500">
 </p>
 
 
