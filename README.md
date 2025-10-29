@@ -37,7 +37,7 @@ Play against a friend and relive the classic logic challenge — now in a sleek 
 
 🧑‍💻 Author
 
-@ Subhankar Guha
+@ Subhankar Guha <br>
 🔗 GitHub Profile - https://github.com/Sguha77
 
 ---
